@@ -10,7 +10,7 @@ Fritzing model of Cypress' CY8CKIT-062S2-43012
 
 <p align="center">
   <a href="https://github.com/HElkhoury/CY8CKIT-062S2-43012-Fritzing">
-    <img src="images/pcb.png" alt="Screenshot" width="600">
+    <img src="pcb.png" alt="Screenshot" width="600">
   </a>
 </p>
 
